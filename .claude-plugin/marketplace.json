@@ -1,0 +1,11 @@
+{
+  "name": "skills-ptbr",
+  "owner": { "name": "ANDIMSS" },
+  "plugins": [
+    {
+      "name": "skills-ptbr",
+      "source": "./plugins/skills-ptbr",
+      "description": "Skills em PT-BR para revisar segurança e auditar projetos feitos com IA antes de lançar."
+    }
+  ]
+}

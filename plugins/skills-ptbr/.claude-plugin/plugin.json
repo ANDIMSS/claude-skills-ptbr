@@ -1,0 +1,7 @@
+{
+  "name": "skills-ptbr",
+  "version": "1.0.0",
+  "description": "Revisão de segurança e auditoria dos 111 conceitos de engenharia, em português.",
+  "author": { "name": "ANDIMSS" },
+  "license": "MIT"
+}
