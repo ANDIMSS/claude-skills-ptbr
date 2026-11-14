@@ -6,6 +6,7 @@ Skills em português para quem cria apps com IA e quer checar o projeto antes de
 |---|---|---|
 | `revisar-seguranca` | Varre o projeto atrás de chaves vazando, rotas sem autenticação, tabelas Supabase sem RLS, SQL injection, CORS aberto, `.env` versionado e dependências vulneráveis. Entrega relatório com gravidade e correção. | `/revisar-seguranca` ou "revisa a segurança" |
 | `auditoria-111` | Audita o projeto contra 111 conceitos de engenharia (segredos, permissões, backup, idempotência, migrations, timeouts, custo, alertas...). Modos `top15`, `completa`, `grupo <nome>`, `explicar <n>`. | `/auditoria-111 top15` |
+| `arquivos-de-contexto` | Cria, audita e mantém os 6 arquivos de contexto (prd, architecture, rules, design, task, memory) em `docs/contexto/` e liga o agente a eles pelo `CLAUDE.md`. | `/arquivos-de-contexto` |
 
 ## Instalar (recomendado: plugin)
 
